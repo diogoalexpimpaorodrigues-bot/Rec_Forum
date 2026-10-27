@@ -119,7 +119,6 @@ frontend/
 start.py            Migrações e arranque local portátil
 tests/              Executor isolado, três motores de navegador e ensaio prolongado
 docs/               Arquitetura, testes e capturas reais
-AI_USAGE.md         Reconhecimento e explicação do auxílio de IA
 ```
 
 ## Segurança e âmbito
