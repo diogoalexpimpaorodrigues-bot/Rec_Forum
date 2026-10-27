@@ -141,9 +141,7 @@ Limites deliberados: SQLite serializa escritas; o protótipo usa um catálogo pe
 | Página inicial | `/`, com entrada e registo |
 | Página de utilizador | `/dashboard`, protegida pela sessão da API |
 | Funcionalidade útil | Desafios que creditam pontos, resgates que debitam e histórico |
-| Aparência cuidada | Layout responsivo, confirmação, feedback e estados vazios |
-| Identificar auxílio de IA e explicar código | AI_USAGE.md, comentários e identificação no rodapé |
-
+| Aparência cuidada | Layout responsivo, confirmação, feedback e estados vazios 
 ## Documentação complementar
 
 - [Instalação automática e sistemas suportados](INSTALAR.md)
